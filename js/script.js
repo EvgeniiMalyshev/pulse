@@ -271,7 +271,7 @@ window.addEventListener('DOMContentLoaded', ()=>{
 
 	let day = 1,
 		month = 1,
-		year = 22,
+		year = 26,
 		countDay = [31,28,31,30,31,30,31,31,30,31,30,31],
 		currentDay = new Date(),
 		timeEnd = `20${year}-${addZero(month)}-${addZero(day)}`;
